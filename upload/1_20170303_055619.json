@@ -1,0 +1,2728 @@
+{
+    "data": [{
+            "Cliente": [{
+                    "id": 308,
+                    "nombre_cliente": "AMAIQUEMA BALDEON REINA PILAR",
+                    "direccion_cliente": "BABAHOYO: JAIME ROLDOS Y 3RA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "203",
+                    "telefono_cliente": "0988283180"
+                }, {
+                    "id": 309,
+                    "nombre_cliente": "AVILES CASTILLO SILVIA ELIZABETH",
+                    "direccion_cliente": "BABABAHOYO: VIA UNIVERSITARIA A LADO DEL COLEGIO ANEXO COLEGIO ARTESANAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "204",
+                    "telefono_cliente": "0989174312"
+                }, {
+                    "id": 310,
+                    "nombre_cliente": "BAQUERIZO NAVARRETE HERMINIA NUZMILA",
+                    "direccion_cliente": "BAABHOYO, 9 DE NOVIEMBRE Y 3ERA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "205",
+                    "telefono_cliente": "0993237445"
+                }, {
+                    "id": 311,
+                    "nombre_cliente": "BARRIGA MACIAS CARMEN JESSICA",
+                    "direccion_cliente": "BABAHOYO: GARCIA MORENO Y FLORES ESQ.",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "206",
+                    "telefono_cliente": "0980893869"
+                }, {
+                    "id": 312,
+                    "nombre_cliente": "BECILLA GAIVOR GUALBERTO LORENZO",
+                    "direccion_cliente": "BABAHOYO, 10 DE AGOSTO ENTRE RICAURTE Y 5 DE JUNIO UNIDAD EDUCATIVA FEDERICO FAOEBEL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "207",
+                    "telefono_cliente": "0985450391"
+                }, {
+                    "id": 313,
+                    "nombre_cliente": "CAIZA AGUILAR LOURDES AMERICA",
+                    "direccion_cliente": "BABAHOYO: CALLE 10 DE AGOSTO Y BARREIRO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "208",
+                    "telefono_cliente": "0985317102"
+                }, {
+                    "id": 314,
+                    "nombre_cliente": "CHICA VACA IVON IRMA",
+                    "direccion_cliente": "BABAHOYO, CDLA OTTO AROSEMENA AV JORGE VILLEGAS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "210",
+                    "telefono_cliente": "052021218"
+                }, {
+                    "id": 315,
+                    "nombre_cliente": "COTTO PULECIO MONICA DE LA CRUZ",
+                    "direccion_cliente": "BABAHOYO, MALECON ENTRE CALLE 8 Y 7",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "211",
+                    "telefono_cliente": "0939937630"
+                }, {
+                    "id": 316,
+                    "nombre_cliente": "DIAZ SANCHEZ BELLA TEREZA",
+                    "direccion_cliente": "BABAHOYO, MALECON Y PASAJE PEATONAL CENTRO COMUNAL CARLOS ALVARADO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "213",
+                    "telefono_cliente": "0969913220"
+                }, {
+                    "id": 317,
+                    "nombre_cliente": "GALARZA TOVAR IVAN EDUARDO",
+                    "direccion_cliente": "BABAHOYO. GENERAL BARONA 1604 Y ROLDOS POR CEMENTARIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "215",
+                    "telefono_cliente": "09599163984"
+                }, {
+                    "id": 318,
+                    "nombre_cliente": "GRANIZO MORA PAMELA NATHALY",
+                    "direccion_cliente": "BBAHOYO CALLE FLORES ENTRE GARCIA MORENO Y JUAN X MARCO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "216",
+                    "telefono_cliente": "0979907254"
+                }, {
+                    "id": 319,
+                    "nombre_cliente": "GUACHICHULCA GUZMAN MARIO ALEJANDR",
+                    "direccion_cliente": "BABAHOYO CALLE FLORES Y TERCER CALLEJON",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "217",
+                    "telefono_cliente": "0979461551"
+                }, {
+                    "id": 320,
+                    "nombre_cliente": "ILLESCA ZAMBRANO ROSA MERCEDES",
+                    "direccion_cliente": "BABAHOYO, 10 DE AGOSTO Y OLMEDO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "218",
+                    "telefono_cliente": "052731050"
+                }, {
+                    "id": 321,
+                    "nombre_cliente": "LICET ANDREA VALVERDE HAZ",
+                    "direccion_cliente": "BABAHOYO, ATRAS DEL CEMENTERIO AV JORGE VILLEGAS Y 2DA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "219",
+                    "telefono_cliente": "0993322389"
+                }, {
+                    "id": 322,
+                    "nombre_cliente": "MARTINEZ SALVATIERRA YOLANDA MARLE",
+                    "direccion_cliente": "BABAHOYO, 9 DE NOVIEMBRE Y 3ERA PATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "220",
+                    "telefono_cliente": "0981504321"
+                }, {
+                    "id": 323,
+                    "nombre_cliente": "PRIETO CAMPOVERDE JUAN EFRAIN",
+                    "direccion_cliente": "BABAHOYO CALLES VARGAS MACHUCA Y CALLE H X LA ESCUELA ESPECIAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "221",
+                    "telefono_cliente": "0990363014"
+                }, {
+                    "id": 324,
+                    "nombre_cliente": "QUIROZ RUIZ CARMEN CRECENCIA",
+                    "direccion_cliente": "BABAHOYO, 9 DE NOVIEMBRE Y VARGAS MACHUCA 1ERA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "222",
+                    "telefono_cliente": "0990392720"
+                }, {
+                    "id": 325,
+                    "nombre_cliente": "LOPEZ SALCEDO GEMA LEONOR",
+                    "direccion_cliente": "BABAHOYO: JUAN X MARCOS ENTRE MEJIA Y OLMEDO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "224",
+                    "telefono_cliente": "0990232765"
+                }, {
+                    "id": 326,
+                    "nombre_cliente": "SILVA ALDAR CARLOS JULIO",
+                    "direccion_cliente": "BABAHOYO BARRIO LINDO EN LA G Y H X LA ESCUELA BLANCA BOLAÑOS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "225",
+                    "telefono_cliente": "0979846627"
+                }, {
+                    "id": 327,
+                    "nombre_cliente": "SOLIS SANDOYA JACINTA MANUELA",
+                    "direccion_cliente": "BABAHOYO JUAN X MARCOS ENTRE FLORES Y MARTIN ICAZA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "226",
+                    "telefono_cliente": "0997576792"
+                }, {
+                    "id": 328,
+                    "nombre_cliente": "STOPAR CARRERA CAROLAY ELIZABETH",
+                    "direccion_cliente": "BABHOYO: ISLA TERMINAL TERRESTRE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "227",
+                    "telefono_cliente": "0999503129"
+                }, {
+                    "id": 329,
+                    "nombre_cliente": "TAMINE ANDRADE CHAGERBEN",
+                    "direccion_cliente": "BABAHOYO, CDLA EL CHOFER DET CAMILO PONCE CALLE 2 FRENTE PSITA DE PATINAJE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "229",
+                    "telefono_cliente": "0968188894"
+                }, {
+                    "id": 330,
+                    "nombre_cliente": "TORRES MEDINA JOHANNA ELIZABETH",
+                    "direccion_cliente": "BABAHOYO, BARREIRA Y GARCIA MORENO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "230",
+                    "telefono_cliente": "0993042992"
+                }, {
+                    "id": 331,
+                    "nombre_cliente": "VALDIVIEZO GARCES VICENTE FRANCISCO",
+                    "direccion_cliente": "BABAHOYO: CDLA BARRIO LINDO,CALLE SEGUNDA Y CALLE B",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "231",
+                    "telefono_cliente": "0986578564"
+                }, {
+                    "id": 332,
+                    "nombre_cliente": "VALLE ALENCASTRO DEISY JANETH",
+                    "direccion_cliente": "BABAHOYO, PRIMERO DE MAYO POR LA ENTRADA A LA MORGUE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "232",
+                    "telefono_cliente": "0981475994"
+                }, {
+                    "id": 333,
+                    "nombre_cliente": "VERA ZAPATA JULIO SEGUNDO",
+                    "direccion_cliente": "BABAHOYO: MEJIA Y GARCIA MORENO ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "234",
+                    "telefono_cliente": "0989649939"
+                }, {
+                    "id": 334,
+                    "nombre_cliente": "VITE MANZABA FRANCISCA",
+                    "direccion_cliente": "BABAHOYO, 5 DE JUNIO Y RICAUTE ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "236",
+                    "telefono_cliente": "730486"
+                }, {
+                    "id": 335,
+                    "nombre_cliente": "ZAMBRANO VALENCIA KAREN STEFANIA",
+                    "direccion_cliente": "BABAHOYO, BARREIRO Y 2DA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "237",
+                    "telefono_cliente": "735306"
+                }, {
+                    "id": 336,
+                    "nombre_cliente": "GUERRERO MOSQUERA JENNIFER KATIUSKA",
+                    "direccion_cliente": "BABAHOYO CDLA EL PIREO ATRAS DE ECU 911",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "248",
+                    "telefono_cliente": "0990111745"
+                }, {
+                    "id": 337,
+                    "nombre_cliente": "RAMOS HERNANDEZ GLADYS LEONOR",
+                    "direccion_cliente": "BABAHOYO CDLA EL PIREO ATRAS DEL UPC",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "253",
+                    "telefono_cliente": "0990175779"
+                }, {
+                    "id": 338,
+                    "nombre_cliente": "ALAVA CARRENO LUCINDA DOLORES",
+                    "direccion_cliente": "BABAHOYO CALLE K Y LA TERCERA TIENDA DON VASQUEZ",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "303",
+                    "telefono_cliente": "0992381053"
+                }, {
+                    "id": 339,
+                    "nombre_cliente": "BASTIDAS LAGUA MARIA OLGA",
+                    "direccion_cliente": "BABAHOYO: CDLA. CRISTO DEL CONSUELO CALLE J Y LA SEGUNDA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "307",
+                    "telefono_cliente": "052739431"
+                }, {
+                    "id": 340,
+                    "nombre_cliente": "CHAVEZ FRUCTUOSO AMPARO DEL ROSARIO",
+                    "direccion_cliente": "BABAHOYO,GARCIA MORENO ENTRE PEDRO CARBO Y ISASIAS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "312",
+                    "telefono_cliente": "0939407772"
+                }, {
+                    "id": 341,
+                    "nombre_cliente": "ESCOBAR ZUÑIGA CARMEN ROSARIO",
+                    "direccion_cliente": "BABAHOYO VARGAS MACHUCA Y LA L",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "313",
+                    "telefono_cliente": "0986762248"
+                }, {
+                    "id": 342,
+                    "nombre_cliente": "GAVILANEZ SANTILLAN ENEDINA BRUMILA",
+                    "direccion_cliente": "BABAHOYO: VARGAS MACHUCA ENTRE 18 DE MAYO Y 5 ESQUINAS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "316",
+                    "telefono_cliente": "0981906257"
+                }, {
+                    "id": 343,
+                    "nombre_cliente": "HENRIQUEZ PALMA RICARDO ISIDRO",
+                    "direccion_cliente": "BABAHOYO AV PADRE MARCOS BENETAZO FRENTE A LA U",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "317",
+                    "telefono_cliente": "09811134776"
+                }, {
+                    "id": 344,
+                    "nombre_cliente": "JACOME DELGADO SILVIA PATRICIA",
+                    "direccion_cliente": "BABAHOYO: CALLE R ENTRE LA A Y LA B FRENTE AL COLEGIO EUGENIO ESPEJO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "319",
+                    "telefono_cliente": "0980167723"
+                }, {
+                    "id": 345,
+                    "nombre_cliente": "MARTINEZ IMELDA ALICIA",
+                    "direccion_cliente": "BABAHOYO: JUAN ADNOLETO VARGAS MACHUCA ESQ.",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "323",
+                    "telefono_cliente": "0992067711"
+                }, {
+                    "id": 346,
+                    "nombre_cliente": "MOSQUERA OROZCO YOLANDA DE LAS MERCEDES",
+                    "direccion_cliente": "BABAHOYO: JUAN AGNOLETO A Y B",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "324",
+                    "telefono_cliente": "0990765012"
+                }, {
+                    "id": 347,
+                    "nombre_cliente": "PAZMIÑO TRIANA DEYSI AMARILIS",
+                    "direccion_cliente": "BABAHOYO VIA UNIVERSITARIA FRENTE AL COLEGIO ANEXO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "327",
+                    "telefono_cliente": "0994003076"
+                }, {
+                    "id": 348,
+                    "nombre_cliente": "RUIZ LAURA MARINA",
+                    "direccion_cliente": "BABAHOYO CALLE 3ero LA J Y K CRISTO DEL CONSUELO ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "329",
+                    "telefono_cliente": "739378"
+                }, {
+                    "id": 349,
+                    "nombre_cliente": "RUIZ MURILLO CESAR IVAN",
+                    "direccion_cliente": "BABAHOYO LOTIZACION ARREAHGA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "330",
+                    "telefono_cliente": "0959075579"
+                }, {
+                    "id": 350,
+                    "nombre_cliente": "TOAPANTA LEMA CELIA CARLOTA",
+                    "direccion_cliente": "BABAHOYO CALLE JUAN X MARCO ENTRE K Y L",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "334",
+                    "telefono_cliente": "09688318903"
+                }, {
+                    "id": 351,
+                    "nombre_cliente": "VALLEJO GUAMAN MARIA EUGENIA",
+                    "direccion_cliente": "BABAHOYO: CALLE L ENTRE JUAN X MARCOS Y VARGAS MACHUCA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "335",
+                    "telefono_cliente": "0994422376"
+                }, {
+                    "id": 352,
+                    "nombre_cliente": "BENITEZ RUMAZO ENMA ROSADIA",
+                    "direccion_cliente": "BABAHOYO GENERAL BARONA Y ENTRE OLMEDO Y FLORES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "341",
+                    "telefono_cliente": "731037"
+                }, {
+                    "id": 353,
+                    "nombre_cliente": "MACIAS HERRERA IRENE MARITZA",
+                    "direccion_cliente": "BABAHOYO, ROCAFUERTE Y 3ERA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "355",
+                    "telefono_cliente": "2739634"
+                }, {
+                    "id": 354,
+                    "nombre_cliente": "MONCAYO VERA GREGORIO EPIFANIO",
+                    "direccion_cliente": "BABAHOYO CALLE ROCAFUERTE Y QUINTA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "358",
+                    "telefono_cliente": "0999163293"
+                }, {
+                    "id": 355,
+                    "nombre_cliente": "MONTERO MACIAS CARMEN NARGELA",
+                    "direccion_cliente": "BABAHOYO CALLE VARGAS MACHUCA Y LA H 2 CUADRA ATRAS ESTADIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "359",
+                    "telefono_cliente": "0986874253"
+                }, {
+                    "id": 356,
+                    "nombre_cliente": "NARVAEZ BARAHONA KENNIA MAYERLI",
+                    "direccion_cliente": "BABAHOYO: JUAN X MARCOS Y ISAIAS CHOPITEA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "361",
+                    "telefono_cliente": "0959454860"
+                }, {
+                    "id": 357,
+                    "nombre_cliente": "PAREDES GARCES MARGOT MARLET",
+                    "direccion_cliente": "BABAHOYO, MALECON Y MARTIN ICAZA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "365",
+                    "telefono_cliente": "0999381691"
+                }, {
+                    "id": 358,
+                    "nombre_cliente": "TORRES MONSERRATE LEONOR MODESTA",
+                    "direccion_cliente": "BABAHOYO, JUAN X MARCOS CALLE H ATRAS DEL ESTADIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "372",
+                    "telefono_cliente": "739381"
+                }, {
+                    "id": 359,
+                    "nombre_cliente": "VELARDE  CEVALLOS CONSUELO DE PI",
+                    "direccion_cliente": "BABAHOYO, CENTRO COMERCIAL BAHIA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "374",
+                    "telefono_cliente": "0939297606"
+                }, {
+                    "id": 360,
+                    "nombre_cliente": "ARANDA TIPAN ROSANA TERESA",
+                    "direccion_cliente": "MONTALVO: 24 DE AMYO Y 10 DE AGOSTO DIAGONAL A LA IGLESIA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "376",
+                    "telefono_cliente": "0988552400"
+                }, {
+                    "id": 361,
+                    "nombre_cliente": "ASSAN CHANG ANGELA MAGDALENA",
+                    "direccion_cliente": "MONTALVO: 10 DE AGOSTO EUFEMIA DE ZAMBRANO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "378",
+                    "telefono_cliente": "0991476314"
+                }, {
+                    "id": 362,
+                    "nombre_cliente": "BARRAGAN GALLEGOS MONICA DEL PILAR",
+                    "direccion_cliente": "MONTALVO: AV. MONTALVO LA Y VIA A GUARANDA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "381",
+                    "telefono_cliente": "099652549"
+                }, {
+                    "id": 363,
+                    "nombre_cliente": "CAMACHO GARCIA JULIETA ANATALIA",
+                    "direccion_cliente": "MONTALVO: JUAN LEON MERA ENTRE 10 AGOSTO Y BABAHOYO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "385",
+                    "telefono_cliente": "0985747360"
+                }, {
+                    "id": 364,
+                    "nombre_cliente": "PARRA CARRIEL ELSA JACINTA",
+                    "direccion_cliente": "MONTALVO: AV. ANTONIO DE LAS BASTIDAS Y GUILLERMO BAQUERIZO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "387",
+                    "telefono_cliente": "0967738209"
+                }, {
+                    "id": 365,
+                    "nombre_cliente": "ESPIN PAZMIÑO ANA CRISTINA",
+                    "direccion_cliente": "MONTALVO: ANTONIO LA BASTIDA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "388",
+                    "telefono_cliente": "0990769464"
+                }, {
+                    "id": 366,
+                    "nombre_cliente": "GAIBOR GARCIA JUANA MARIA",
+                    "direccion_cliente": "MONTALVO: ANTONIO SAN BASTIDA DIAGONAL AL SEMENTERIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "389",
+                    "telefono_cliente": "0969934251"
+                }, {
+                    "id": 367,
+                    "nombre_cliente": "GUEVARA VALLEJO TERESA PIEDAD",
+                    "direccion_cliente": "MONTALVO: BABAHOYO ENTRE 27 DE MAYO GARCIA MORENO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "393",
+                    "telefono_cliente": "052953360"
+                }, {
+                    "id": 368,
+                    "nombre_cliente": "JIMENEZ CUICHAN TANIA MARIBEL",
+                    "direccion_cliente": "MONTALVO: CDLA, CAMPOS ELIAS , CALLE RUMIÑAHUI Y VICTOR VILLAMARIN",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "396",
+                    "telefono_cliente": "0967450447"
+                }, {
+                    "id": 369,
+                    "nombre_cliente": "MIRANDA GAROFALO ALBA MAVELITA",
+                    "direccion_cliente": "MONTALVO: GONZALES SUAREZ Y 6 DE OCTUBRE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "401",
+                    "telefono_cliente": "0992328529"
+                }, {
+                    "id": 370,
+                    "nombre_cliente": "MOREJON SANTA MARIA ALEXANDRA",
+                    "direccion_cliente": "MONTALVO:  AV 25 ABRIL Y JUAN LEON MERA A LAO DE LA KSA COMUNAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "404",
+                    "telefono_cliente": "0968260255"
+                }, {
+                    "id": 371,
+                    "nombre_cliente": "MOSQUERA CALDERON ELSA LADY",
+                    "direccion_cliente": "MONTALVO:10 DE AGOSTO Y 27 DE MAYO ENTRE GARCIA MORENO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "405",
+                    "telefono_cliente": "0981567873"
+                }, {
+                    "id": 372,
+                    "nombre_cliente": "NINABANDA PUCHA ERNESTO AMABLE",
+                    "direccion_cliente": "MONTALVO: NEVARDO GOMEZ Y ELOY ALFARO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "406",
+                    "telefono_cliente": "0980704992"
+                }, {
+                    "id": 373,
+                    "nombre_cliente": "OLIVARES RODRIGUEZ VICTOR WILFRIDO",
+                    "direccion_cliente": "MONTALVO: MARISCAL SUCRE Y GUILLERMO BAQUERIZO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "407",
+                    "telefono_cliente": "0985824549"
+                }, {
+                    "id": 374,
+                    "nombre_cliente": "PESANTES LUCIO FRANKLIN KLEBER",
+                    "direccion_cliente": "MONTALVO: AV.25 DE ABRIL Y QUITO ESC. GONZALEZ SUAREZ",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "409",
+                    "telefono_cliente": "0995193395"
+                }, {
+                    "id": 375,
+                    "nombre_cliente": "PUCHA CAIZA JOHANNA ALEXANDRA",
+                    "direccion_cliente": "MONTALVO: CALLE 10 DE AGOSTO MERCADO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "410",
+                    "telefono_cliente": ""
+                }, {
+                    "id": 376,
+                    "nombre_cliente": "ROMERO MENDIETA MAURA DENISSE",
+                    "direccion_cliente": "MONTALVO: ANTONIO LAS BASTIDAS VIA CEMENTERIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "411",
+                    "telefono_cliente": "0988493679"
+                }, {
+                    "id": 377,
+                    "nombre_cliente": "ROMERO RIVADENEIRA CARLOS REIMUNDO",
+                    "direccion_cliente": "MONTALVO: ENTRADA DE LA RECICLADORA PITUFO CDLA. BRISAS DEL CRISTAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "412",
+                    "telefono_cliente": "0982904307"
+                }, {
+                    "id": 378,
+                    "nombre_cliente": "SANTOS TRONCOSO GLADYS DEL ROCIO",
+                    "direccion_cliente": "MONTALVO: BABAHOYO Y 24 DE MAYO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "413",
+                    "telefono_cliente": "0959207132"
+                }, {
+                    "id": 379,
+                    "nombre_cliente": "SECAIRA MORALES SANDRA ELIZABETH",
+                    "direccion_cliente": "MONTALVO: CALLE QUITO Y VENEZUELA ( CYBER BRYAN)",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "414",
+                    "telefono_cliente": "0991058366"
+                }, {
+                    "id": 380,
+                    "nombre_cliente": "TOMAICO OCHOA JORGE ALFONSSO",
+                    "direccion_cliente": "MONTALVO: CALLE QUITO Y RAFAEL CARRILLO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "415",
+                    "telefono_cliente": "0969249787"
+                }, {
+                    "id": 381,
+                    "nombre_cliente": "VALDEZ QUEVEDO CARMEN ALEGRIA",
+                    "direccion_cliente": "MONTALVO: AV. 25 DE ABRIL Y JAIME AVIAR",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "416",
+                    "telefono_cliente": "0988849190"
+                }, {
+                    "id": 382,
+                    "nombre_cliente": "VEGA AGUILAR BOLIVAR HERIBERTO",
+                    "direccion_cliente": "MONTALVO: BABAHOYO Y BASTIDAS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "418",
+                    "telefono_cliente": "0981685421"
+                }, {
+                    "id": 383,
+                    "nombre_cliente": "ZURITA GOMEZ VERONICA DEL CARMEN",
+                    "direccion_cliente": "MONTALVO: MARGARITA VILLACREZ Y MARISCAL SUCRE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "419",
+                    "telefono_cliente": "0968145050"
+                }, {
+                    "id": 384,
+                    "nombre_cliente": "CASTILLO GUALAN MARIA AMERICA",
+                    "direccion_cliente": "BABAHOYO AV UNIVERSITARIO ENTRE LA C Y WW",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "430",
+                    "telefono_cliente": "0981732303"
+                }, {
+                    "id": 385,
+                    "nombre_cliente": "CEDEÑO VERA NESTOR PORFIRIO",
+                    "direccion_cliente": "BABAHOYO AVENIDA FLORES BAR 3 COLEGIO ESUGENIO ESPEJO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "431",
+                    "telefono_cliente": "0997281312"
+                }, {
+                    "id": 386,
+                    "nombre_cliente": "PAREDES FLORES JULIO CARLOS",
+                    "direccion_cliente": "BABAHOYO: AV. UNIVERSITARIA FRENTE AL COLEGIO EUGENIO ESPEJO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "456",
+                    "telefono_cliente": "0999583328"
+                }, {
+                    "id": 387,
+                    "nombre_cliente": "PARRALES CONTRERAS GUSTAVO ADOLFO",
+                    "direccion_cliente": "BABAHOYO: CDLA. UNIVERSITARIA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "457",
+                    "telefono_cliente": "0985814022"
+                }, {
+                    "id": 388,
+                    "nombre_cliente": "QUINATOA CHELA VERONICA ZORAIDA",
+                    "direccion_cliente": "BABAHOYO LOTIZACION SAMANIEGO CALLE T",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "460",
+                    "telefono_cliente": ""
+                }, {
+                    "id": 389,
+                    "nombre_cliente": "RIOS BRAVO MONICA ELIZABETH",
+                    "direccion_cliente": "BABAHOYO: CDL, SAN PABLO ATRAS DEL COLEGIO ANEXO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "462",
+                    "telefono_cliente": "0999425578"
+                }, {
+                    "id": 390,
+                    "nombre_cliente": "VALLE GAIBOR CARINA ALEXANDRA",
+                    "direccion_cliente": "BABAHOYO CALLE UNIVERSITARIA ENTRANDA PRINCIPAL A LAS PERALES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "470",
+                    "telefono_cliente": "0990048689"
+                }, {
+                    "id": 391,
+                    "nombre_cliente": "VIEJO FIGUEROA JACINTA MAXIMA",
+                    "direccion_cliente": "BABAHOYO: LOTIZACION ARREAGA A TRAS DEL SEGURO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "474",
+                    "telefono_cliente": "0991912849"
+                }, {
+                    "id": 392,
+                    "nombre_cliente": "MULLO TOABANDA MARCELO",
+                    "direccion_cliente": "BABHOYO, CALLE FLORES Y SEGUNDO CALLEJON AL FRENTE DE LA COOP. CACHARI",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "478",
+                    "telefono_cliente": "0991147570"
+                }, {
+                    "id": 393,
+                    "nombre_cliente": "ANGEL LUIS VACACELA PINTAG",
+                    "direccion_cliente": "BABAHOYO, 9 DE NOVIEMBRE Y VARGAS MACHUCA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "479",
+                    "telefono_cliente": "0985982416"
+                }, {
+                    "id": 394,
+                    "nombre_cliente": "CHIMBO MAZABANDA SEGUNDO JUAN",
+                    "direccion_cliente": "BABAHOYO ROLDOS Y 10 DE AGOSTO ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "480",
+                    "telefono_cliente": "0939420908"
+                }, {
+                    "id": 395,
+                    "nombre_cliente": "BERRUZ TERAN GINA VERONICA",
+                    "direccion_cliente": "BABAHOYO BARREIRO Y OCTAVO CALLEJON",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "481",
+                    "telefono_cliente": "0969428230"
+                }, {
+                    "id": 396,
+                    "nombre_cliente": "ROSA MOLINA MENDEZ",
+                    "direccion_cliente": "BABAHOYO, ROLDOS Y VARGAS MACHUCA ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "482",
+                    "telefono_cliente": "734148"
+                }, {
+                    "id": 397,
+                    "nombre_cliente": "ESPIN CHILLO ANGELA REBECA",
+                    "direccion_cliente": "BABAHOYO: MEJIA Y VARGAS MACHUCA A LADO DE CONFECCIONES \"MAJER SPORT\"",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "484",
+                    "telefono_cliente": "0991842630"
+                }, {
+                    "id": 398,
+                    "nombre_cliente": "BRAVO SUAREZ CECILIA DEL ROSARIO",
+                    "direccion_cliente": "BABAHOYO: AV. UNIVERSITARIA A LADO DE LA DEFENSORIA DEL PUEBLO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "486",
+                    "telefono_cliente": "0988146935"
+                }, {
+                    "id": 399,
+                    "nombre_cliente": "JANETA SINCHE DAVID GONZALO",
+                    "direccion_cliente": "BABAHOYO: CALLE ROLDOS Y CUSTODIO SANCHEZ",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "487",
+                    "telefono_cliente": "0939265927"
+                }, {
+                    "id": 400,
+                    "nombre_cliente": "RUIZ YANEZ JUAN ALBERTO",
+                    "direccion_cliente": "BABAHOYO: CALLE A Y CALLE L CRISTO DEL CONSUELO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "489",
+                    "telefono_cliente": "0980050345"
+                }, {
+                    "id": 401,
+                    "nombre_cliente": "BURGOS BUSTOS JOSUE NEMIAS",
+                    "direccion_cliente": "BABAHOYO AV PONCE LUQUE DIAGONAL AL SRI",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "493",
+                    "telefono_cliente": "0984882329"
+                }, {
+                    "id": 402,
+                    "nombre_cliente": "CARVAJAL SOLIZ DAYSI CRISTINA",
+                    "direccion_cliente": "BABAHOYO CDLA BARRIO LINDO CALLE G Y TERCERO LONGITU DINAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "495",
+                    "telefono_cliente": "052735286"
+                }, {
+                    "id": 403,
+                    "nombre_cliente": "SOLIS ERAZO ALMA DELIA",
+                    "direccion_cliente": "BABAHOYO: BYPAS LAJADA DE LUBRISPA CASA COLOR VERDE CON NARANJA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "498",
+                    "telefono_cliente": "052739444"
+                }, {
+                    "id": 404,
+                    "nombre_cliente": "ARIAS BURGOS GEOVANNY ELIAS",
+                    "direccion_cliente": "BABAHOYO: MALECON Y BARREIRO ESQ.",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "521",
+                    "telefono_cliente": "0980116250"
+                }, {
+                    "id": 405,
+                    "nombre_cliente": "JACOME MARIN WALTER FERNANDO",
+                    "direccion_cliente": "BABAHOYO: CALLE ROLDOS Y 5TA PEATONAL A UNA CUADRA DEL COLEGIO ADOLFO BARES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "528",
+                    "telefono_cliente": "0968623038"
+                }, {
+                    "id": 406,
+                    "nombre_cliente": "MORAN BUSELO ELENA MARTHA",
+                    "direccion_cliente": "BABAHOYO: MAJIA Y 4TA PEATONAL O 7MO CALLEJON",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "529",
+                    "telefono_cliente": "0959172240"
+                }, {
+                    "id": 407,
+                    "nombre_cliente": "RODRIGUEZ CARRILLO ERLINDA",
+                    "direccion_cliente": "BABAHOYO: CDLA EL CHORILLO CALLE PRINCIPAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "531",
+                    "telefono_cliente": "0997355874"
+                }, {
+                    "id": 408,
+                    "nombre_cliente": "LOPEZ LOZANO JEFFERSON GAVINO",
+                    "direccion_cliente": "BABAHOYO AV UNIVERSITARIA FRENTE A LA UNIVERSIDAD TECNICA BABAHOYO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "534",
+                    "telefono_cliente": "0983674644"
+                }, {
+                    "id": 409,
+                    "nombre_cliente": "VARGAS MUÑOZ ELSIE NELLY",
+                    "direccion_cliente": "BABAHOYO, CALLE BYPASS CUARTACALLEJON Y LA K DIAGONAL ELECTROMECANICA CARVAJAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "535",
+                    "telefono_cliente": "0959677579"
+                }, {
+                    "id": 410,
+                    "nombre_cliente": "GUERRERO NOBOA CARLOS JOSE",
+                    "direccion_cliente": "BABAHOYO, CALLE CHOPITEA Y GARCIA MORENO FRENTE A LA PISCINA DE LA FEDERACION Y COLISEO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "537",
+                    "telefono_cliente": "0988332682"
+                }, {
+                    "id": 411,
+                    "nombre_cliente": "NUÑEZ ROMERO GLENDA OLIVIA",
+                    "direccion_cliente": "BABAHOYO CALLE JUAN ABMOLETO Y CALLE SEGUNDA FRENTE AL SEGURO DEL IESS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "538",
+                    "telefono_cliente": "0982730086"
+                }, {
+                    "id": 412,
+                    "nombre_cliente": "MENDEZ DIAZ KARLA FERNANDA",
+                    "direccion_cliente": "BABAHOYO: VIA BABAHOYO JUJAN (VULCANIZADORA EL PANITA) EN LA ENTRADA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "539",
+                    "telefono_cliente": "0990237865"
+                }, {
+                    "id": 413,
+                    "nombre_cliente": "DIAZ BARAHONA GRISELDA MARIUXI",
+                    "direccion_cliente": "BABAHOYO: KM 7 VIA A BABAHOYO (KIOSCO DON CESAR)",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "540",
+                    "telefono_cliente": "0967572041"
+                }, {
+                    "id": 414,
+                    "nombre_cliente": "BENITEZ LOPEZ MARIA GOLLA",
+                    "direccion_cliente": "BABAHOYO: RCTO LA TRANCA (BILLAR)",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "541",
+                    "telefono_cliente": "0999110441"
+                }, {
+                    "id": 415,
+                    "nombre_cliente": "PAGUAY LEON ISABEL TEODORA",
+                    "direccion_cliente": "BABAHOYO: VIA A LA CARMELA PRIMERA ENTRADA A MANO DERECHA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "542",
+                    "telefono_cliente": "0988627134"
+                }, {
+                    "id": 416,
+                    "nombre_cliente": "CRESPO PIZA CRISTINA",
+                    "direccion_cliente": "BABAHOYO MARTIN ICAZA Y 5 TA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "545",
+                    "telefono_cliente": ""
+                }, {
+                    "id": 417,
+                    "nombre_cliente": "PULECIO FUENTES MARIA GAVINA",
+                    "direccion_cliente": "BABAHOYO CALLE G Y VARGAS MACHUCA CORONEL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "548",
+                    "telefono_cliente": "0981174849"
+                }, {
+                    "id": 418,
+                    "nombre_cliente": "RODOLFO ANTONIO LAINA SAENZ",
+                    "direccion_cliente": "BABAHOYO CDLA LAS TOALAS FRENTE A LA REFORMA POR ANTENA BLANCA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "549",
+                    "telefono_cliente": "0983474611"
+                }, {
+                    "id": 419,
+                    "nombre_cliente": "YANEZ GARCIA EDISON RONALD",
+                    "direccion_cliente": "BABAHOYO 25 DE ABRIL A LADO DISENSA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "551",
+                    "telefono_cliente": "0993800687"
+                }, {
+                    "id": 420,
+                    "nombre_cliente": "BETSY SOLANGE ESCALANTE CASADO",
+                    "direccion_cliente": "MONTALVO AV 25 DE ABRIL Y 10 DE AGOSTO A LADO DE MUNICIPIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "556",
+                    "telefono_cliente": "0991820014"
+                }, {
+                    "id": 421,
+                    "nombre_cliente": "QUINDE MONTESDEOCA FREDY ISIDRO",
+                    "direccion_cliente": "BABAHOYO:9 DE NOVIEMBRE Y GARCIA MORENO ESQUINA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "561",
+                    "telefono_cliente": "0993153922"
+                }, {
+                    "id": 422,
+                    "nombre_cliente": "YANCE BAJAÑA HENOC VALERIANO",
+                    "direccion_cliente": "BABAHOYO: 5 DE JUNIO Y FLORES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "569",
+                    "telefono_cliente": "0967149002"
+                }, {
+                    "id": 423,
+                    "nombre_cliente": "CAMPOVERDE BRAVO ANGEL BENIGNO",
+                    "direccion_cliente": "BABAHOYO GENERAL BARONA Y OLMEDO DESPENSA JHON MAR",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "577",
+                    "telefono_cliente": "052732992"
+                }, {
+                    "id": 424,
+                    "nombre_cliente": "JENNY ROJAS",
+                    "direccion_cliente": "BABAHOYO AV 9 DE OCTUBRE Y MARTIN ICAZA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "578",
+                    "telefono_cliente": "0985335981"
+                }, {
+                    "id": 425,
+                    "nombre_cliente": "MORAN VERA SHIRLEY GIOCONDA",
+                    "direccion_cliente": "BABAHOYO GARCIA MORENO Y FLORES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "580",
+                    "telefono_cliente": "738311"
+                }, {
+                    "id": 426,
+                    "nombre_cliente": "CANDO CAYAMBE MARIA PIEDAD",
+                    "direccion_cliente": "BABAHOYO FLORES Y GARCIA MORENO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "581",
+                    "telefono_cliente": "0986162538"
+                }, {
+                    "id": 427,
+                    "nombre_cliente": "CARMEN ALICIA SIMALEZA",
+                    "direccion_cliente": "BABAHOYO CLEMENTE BAQUERIZO Y 6 DE OCTUBRE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "586",
+                    "telefono_cliente": "0989100190"
+                }, {
+                    "id": 428,
+                    "nombre_cliente": "YULI BARRAGAN MACIAS",
+                    "direccion_cliente": "BABAHOYO OLMEDO Y 5 DE JUNIO FRENTE AL BANCO BOLIVARIANO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "587",
+                    "telefono_cliente": "2736561"
+                }, {
+                    "id": 429,
+                    "nombre_cliente": "YOLANDA MEJIA FUENTES",
+                    "direccion_cliente": "BABAHOYO JUAN X MARCOS Y AGNALETO DIAGONAL A LA GOBERNACION",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "590",
+                    "telefono_cliente": "0939301985"
+                }, {
+                    "id": 430,
+                    "nombre_cliente": "BERTHA DIAZ MERISALDE",
+                    "direccion_cliente": "BABAHOYO CLEMENTE BAQUERIZO Y VARGAS MACHUCA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "592",
+                    "telefono_cliente": "0981304004"
+                }, {
+                    "id": 431,
+                    "nombre_cliente": "ANGEL SILVA COLOMA",
+                    "direccion_cliente": "BABAHOYO MEJIA Y 10 DE AGOSTO ESQUINA DIAGONAL A CRUZ AZUL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "596",
+                    "telefono_cliente": "0994083601"
+                }, {
+                    "id": 432,
+                    "nombre_cliente": "MARIA MARCELA MENDOZA MOREIRA",
+                    "direccion_cliente": "BABAHOYO 10 DE AGOSTO Y FLORES FRENTE A DISTRIBUIDORA COMERCIAL EL EXITO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "597",
+                    "telefono_cliente": "0983190892"
+                }, {
+                    "id": 433,
+                    "nombre_cliente": "RUEDA PORTILLA XAVIER ELIAS",
+                    "direccion_cliente": "BABAHOYO: TERMINAL TERRESTRE LOCAL #8",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "603",
+                    "telefono_cliente": "0997698000"
+                }, {
+                    "id": 434,
+                    "nombre_cliente": "PAOLA BELEN MARQUEZ BUSTAMANTE",
+                    "direccion_cliente": "BABAHOYO VIA BYPASS CANCHA SINTETICA A LADO DEL IESS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "606",
+                    "telefono_cliente": "0997615130"
+                }, {
+                    "id": 435,
+                    "nombre_cliente": "RONALD SALAZAR OÑATE ( SOLO CODIGO)",
+                    "direccion_cliente": "DURAN",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "609",
+                    "telefono_cliente": ""
+                }, {
+                    "id": 436,
+                    "nombre_cliente": "RAMOS GORDILLO SANDRA RAQUEL",
+                    "direccion_cliente": "BABAHOYO MALECON ENTRE FLORES MARTINEZ ICAZA EN EL MERCADO DE AVES ARRIBA LOCAL DE COSTURA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "613",
+                    "telefono_cliente": "0969233164"
+                }, {
+                    "id": 437,
+                    "nombre_cliente": "QUIJANO ROBYS SOLANGE LUCETTY",
+                    "direccion_cliente": "BABAHOYO: FRENTE AL HOSPITAL DEL IESS",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "618",
+                    "telefono_cliente": ""
+                }, {
+                    "id": 438,
+                    "nombre_cliente": "VERA VALENCIA SHIRLEY ELIZABETH",
+                    "direccion_cliente": "BABAHOYO AV CLEMENTE BAQUERIZO Y CALLE 5TA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "621",
+                    "telefono_cliente": "0994045512"
+                }, {
+                    "id": 439,
+                    "nombre_cliente": "JAQUELINE MONAR GAIBOR",
+                    "direccion_cliente": "MONTALVO AV 25 ABRIL Y QUITO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "636",
+                    "telefono_cliente": "0980159014"
+                }, {
+                    "id": 440,
+                    "nombre_cliente": "MICHEL LOPEZ",
+                    "direccion_cliente": "CALLE FLORESY 4TA  PEATONAL (ESQ)",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "641",
+                    "telefono_cliente": "0992255919"
+                }, {
+                    "id": 441,
+                    "nombre_cliente": "HURTADO TERAN MIRIAM GRACIELA",
+                    "direccion_cliente": "AV 5DE JUNIO ENTRE SUCRE Y BOLIVAR ALADO DE ARTEFACTA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "645",
+                    "telefono_cliente": "0958978490"
+                }, {
+                    "id": 442,
+                    "nombre_cliente": "MORA DUARTE JESUS EDUARDO",
+                    "direccion_cliente": "BABAHOYO CDLA SOL BRISA POR BYPASS MANO DERECHA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "646",
+                    "telefono_cliente": "0986265934"
+                }, {
+                    "id": 443,
+                    "nombre_cliente": "LARA ROCAFUERTE MONICA PATRICICA",
+                    "direccion_cliente": "CDLA: EL CIPRES MZ D VILLA 9",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "648",
+                    "telefono_cliente": "0967908749"
+                }, {
+                    "id": 444,
+                    "nombre_cliente": "ISURITA LOMBEIDA YADIRA",
+                    "direccion_cliente": "MONTALVO AV MARISCAL SUCRE ENTRE GUILLERMO BAQUERIZO ESQUINA FRENTE A LA CANCHA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "649",
+                    "telefono_cliente": "0983841132"
+                }, {
+                    "id": 445,
+                    "nombre_cliente": "ARELIS NATALI RODRIGUEZ REYES",
+                    "direccion_cliente": "CDLA 4 DE MAYO BAJADA DEL COLEGIO ESPARZA FRENTE A LA PUERTA TRASERA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "650",
+                    "telefono_cliente": "0988717825"
+                }, {
+                    "id": 446,
+                    "nombre_cliente": "ROSA RAQUEL FLORES MONAR",
+                    "direccion_cliente": "ROCAFUERTEY 5 DE JUNIO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "658",
+                    "telefono_cliente": "0991202994"
+                }, {
+                    "id": 447,
+                    "nombre_cliente": "CHEVEZ BURGOS KATTY",
+                    "direccion_cliente": "BABAHOYO: MEJIA Y 4TA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "659",
+                    "telefono_cliente": "0969851385"
+                }, {
+                    "id": 448,
+                    "nombre_cliente": "GUSTAVO CARRILLO PAZMIÑO",
+                    "direccion_cliente": "BABAHOYO: 5 DE JUNIO Y OLMEDO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "660",
+                    "telefono_cliente": "733571"
+                }, {
+                    "id": 449,
+                    "nombre_cliente": "QUINATOA LLUMITAXY LUIS ARMANDO",
+                    "direccion_cliente": "BABAHOYO: JUAN  X MARCOS Y FLORES",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "661",
+                    "telefono_cliente": "0959122073"
+                }, {
+                    "id": 450,
+                    "nombre_cliente": "RANGEL ROSALES ROSA RAQUEL",
+                    "direccion_cliente": "BABAHOYO: BY PASS FRENTE AL TERMINAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "662",
+                    "telefono_cliente": "0990824249"
+                }, {
+                    "id": 451,
+                    "nombre_cliente": "CANDELARIO ACOSTA MARIELLA JESSENIA",
+                    "direccion_cliente": "BABAHOYO:AV. UNIVERSITARIA CDLA 23 DE OCTUBRE",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "667",
+                    "telefono_cliente": "0986098899"
+                }, {
+                    "id": 452,
+                    "nombre_cliente": "MARIA BEATRIZ LOOR CUSME",
+                    "direccion_cliente": "BABAHOYO:CDLA LOS PERALES MANZANA F VILLA 1",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "680",
+                    "telefono_cliente": "0969884495"
+                }, {
+                    "id": 453,
+                    "nombre_cliente": "EULALIA MOREIRA CAICEDO",
+                    "direccion_cliente": "BABAHOYO: CLEMEMTE BAQUERIZO Y TERCERA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "681",
+                    "telefono_cliente": "0982539990"
+                }, {
+                    "id": 454,
+                    "nombre_cliente": "MOLANO PARRA RUBIO",
+                    "direccion_cliente": "ENTRADA DE BABAHOYO PASEO SHOPPIN ADENTRO LOCAL LA FRUTTERIA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "690",
+                    "telefono_cliente": "0959865528"
+                }, {
+                    "id": 455,
+                    "nombre_cliente": "SILVA COLOMA ANGEL EMPERADOR#2",
+                    "direccion_cliente": "BABAHOYO: ENTRADA PRINCIPAL CIUDADELA LA AVENTURA DIAGONAL A LA PJ",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "691",
+                    "telefono_cliente": "0994083601"
+                }, {
+                    "id": 456,
+                    "nombre_cliente": "DAVILA RODRIGUEZ GINA MERCEDEZ",
+                    "direccion_cliente": "BABAHOYO:ROCAFUERTE SEGUNDA PEATONAL",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "695",
+                    "telefono_cliente": "052734053"
+                }, {
+                    "id": 457,
+                    "nombre_cliente": "SOLORZANO RENGIFO CARLOS ALBERTO",
+                    "direccion_cliente": "BABAHOYO: ROCAFUERTE Y 1ER CALLEJON",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "696",
+                    "telefono_cliente": "052735001"
+                }, {
+                    "id": 458,
+                    "nombre_cliente": "MALDONADO FREIRE PATRICIO RAFAEL",
+                    "direccion_cliente": "BABAHOYO: CRUCE DE CHILITOMA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "697",
+                    "telefono_cliente": "09939734134"
+                }, {
+                    "id": 459,
+                    "nombre_cliente": "JORGE RONALDO COELLO MORETA",
+                    "direccion_cliente": "BABAHOYO: CALLE VARGAS MACHUCA PRINCIPAL GLEMENTE BAQUERIZO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "698",
+                    "telefono_cliente": "0981976071"
+                }, {
+                    "id": 460,
+                    "nombre_cliente": "WILSON BUSTOS CASTRO",
+                    "direccion_cliente": "BABAHOYO: 5 DE JUNIO ENTRE RICAURTE Y BARREIRO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "700",
+                    "telefono_cliente": "0989774586"
+                }, {
+                    "id": 461,
+                    "nombre_cliente": "BRABO MORETA VICTOR EDISON",
+                    "direccion_cliente": "BABAHOYO: RICAURTE Y JUAN X MARCO",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "701",
+                    "telefono_cliente": "0939377224"
+                }, {
+                    "id": 462,
+                    "nombre_cliente": "MORALES RAMOS ARACELY MARILU",
+                    "direccion_cliente": "BABAHOYO: AV CLEMENTE BAQUERIZO Y 5TA CALLEJON",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "702",
+                    "telefono_cliente": "0991958861"
+                }, {
+                    "id": 463,
+                    "nombre_cliente": "RUIZ CEVALLOS DAVID MOISES",
+                    "direccion_cliente": "BABAHOYO: AVENIDA CLEMENTE BAQUERIZO VARGAS MACHUCA",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "703",
+                    "telefono_cliente": "0991254317"
+                }, {
+                    "id": 464,
+                    "nombre_cliente": "BARRAGAN GALEAS FANNY MARGOT",
+                    "direccion_cliente": "MONTALVO: PISAGUA ALTO \"DESPENSA LILI\"",
+                    "codigo_vendedor": "1",
+                    "codigo_cliente": "715",
+                    "telefono_cliente": "0982690141"
+                }]
+        }, {
+            "Conf": [{
+                    "base": "Topsy",
+                    "id": 1,
+                    "servidor": "http:\/\/192.168.1.3\/Topsy1\/",
+                    "clave": "solsa",
+                    "usuario": "sa"
+                }]
+        }, {
+            "Menu": [{
+                    "orden_menu": "100",
+                    "id": 1,
+                    "estado_menu": "A",
+                    "codigo_menu": "001",
+                    "nombre_menu": "menu_configuracion_servidor"
+                }, {
+                    "orden_menu": "200",
+                    "id": 2,
+                    "estado_menu": "A",
+                    "codigo_menu": "002",
+                    "nombre_menu": "menu_configuracion_vendedor"
+                }, {
+                    "orden_menu": "300",
+                    "id": 3,
+                    "estado_menu": "A",
+                    "codigo_menu": "003",
+                    "nombre_menu": "menu_sincronizar"
+                }, {
+                    "orden_menu": "400",
+                    "id": 4,
+                    "estado_menu": "A",
+                    "codigo_menu": "004",
+                    "nombre_menu": "menu_ruta_vendedor"
+                }, {
+                    "orden_menu": "500",
+                    "id": 5,
+                    "estado_menu": "A",
+                    "codigo_menu": "005",
+                    "nombre_menu": "menu_enviar_pedidos"
+                }, {
+                    "orden_menu": "600",
+                    "id": 6,
+                    "estado_menu": "A",
+                    "codigo_menu": "006",
+                    "nombre_menu": "menu_pedidos_enviados"
+                }, {
+                    "orden_menu": "700",
+                    "id": 7,
+                    "estado_menu": "A",
+                    "codigo_menu": "007",
+                    "nombre_menu": "menu_pedidos_enviados_fecha"
+                }, {
+                    "orden_menu": "800",
+                    "id": 8,
+                    "estado_menu": "A",
+                    "codigo_menu": "008",
+                    "nombre_menu": "menu_modificar_pedidos"
+                }, {
+                    "orden_menu": "900",
+                    "id": 9,
+                    "estado_menu": "A",
+                    "codigo_menu": "009",
+                    "nombre_menu": "menu_informacion_ruta"
+                }, {
+                    "orden_menu": "1000",
+                    "id": 10,
+                    "estado_menu": "A",
+                    "codigo_menu": "010",
+                    "nombre_menu": "menu_activar_pedidos"
+                }, {
+                    "orden_menu": "1100",
+                    "id": 11,
+                    "estado_menu": "A",
+                    "codigo_menu": "011",
+                    "nombre_menu": "menu_backup"
+                }, {
+                    "orden_menu": "1200",
+                    "id": 12,
+                    "estado_menu": "A",
+                    "codigo_menu": "012",
+                    "nombre_menu": "menu_restore_backup"
+                }, {
+                    "orden_menu": "1300",
+                    "id": 13,
+                    "estado_menu": "A",
+                    "codigo_menu": "013",
+                    "nombre_menu": "menu_salir"
+                }]
+        }, {
+            "Parametros": [{
+                    "id": 1,
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_vendedor": "1",
+                    "codigo_ruta": "8"
+                }]
+        }, {
+            "PedidoCabecera": [{
+                    "total": 4.497300148010254,
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "nombre_cliente": "ALVAREZ TORRES HECTOR",
+                    "fecha": "28\/02\/2017",
+                    "codigo_cliente": "262",
+                    "codigo_ruta": "8",
+                    "subtotal": 3.9472999572753906,
+                    "direccion_cliente": "BABAHOYO: BARREIRO RIO SECO : CALLE TERCERA Y TRANSVERSAL 6",
+                    "telefono_cliente": "052733510",
+                    "iva": 0.550000011920929,
+                    "id": 1,
+                    "observacion": "por pruebas no tomar en cuenta '",
+                    "estado": "C",
+                    "fecha_hora": "20170228 14:46:34",
+                    "codigo_vendedor": "1",
+                    "total_cadena": 0,
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO",
+                    "sel": "S"
+                }, {
+                    "total": 176.24569702148438,
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "nombre_cliente": "GORDILLO VALDIVIEZO PATRICIA MAGDA",
+                    "fecha": "01\/03\/2017",
+                    "codigo_cliente": "276",
+                    "codigo_ruta": "8",
+                    "subtotal": 154.60569763183594,
+                    "direccion_cliente": "BABAHOYO AUTOPISTA QUITO VIA A BABAHOYO",
+                    "telefono_cliente": "0991110704",
+                    "iva": 21.639999389648438,
+                    "id": 3,
+                    "observacion": "por pruebas",
+                    "estado": "P",
+                    "fecha_hora": "20170301 10:36:30",
+                    "codigo_vendedor": "1",
+                    "total_cadena": 0,
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO",
+                    "sel": "N"
+                }, {
+                    "total": 8.799200057983398,
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "nombre_cliente": "AUCATOMA LLUMITAXI LILIANA LIZBETH",
+                    "fecha": "01\/03\/2017",
+                    "codigo_cliente": "305",
+                    "codigo_ruta": "8",
+                    "subtotal": 7.719200134277344,
+                    "direccion_cliente": "BABAHOYO CDLA EL MAMEY A LADO DE LA ESCUELA JOSE MARIA ESTRADA CUELLO TIENDA ESQUINERO",
+                    "telefono_cliente": "0993540214",
+                    "iva": 1.0800000429153442,
+                    "id": 4,
+                    "observacion": "por pruebas",
+                    "estado": "P",
+                    "fecha_hora": "20170301 17:53:41",
+                    "codigo_vendedor": "1",
+                    "total_cadena": 0,
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO",
+                    "sel": "N"
+                }]
+        }, {
+            "PedidoDetalle": [{
+                    "disponible_producto": 0,
+                    "solicitado_producto": 1,
+                    "cadena_subtotal_producto": "Subtotal: $ 3,95",
+                    "total_producto": 4.499899864196777,
+                    "subtotal_producto": 3.9472999572753906,
+                    "id": 1,
+                    "estado": "C",
+                    "id_cabecera": 1,
+                    "cadena_solicitado_producto": "Sol: 1",
+                    "precio_producto": 3.9472999572753906,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 4.499899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 4,4999",
+                    "nombre_producto": "1\/2 Baloncito (22 und)",
+                    "cadena_total_producto": "Total: $ 4,50",
+                    "codigo_producto": "000015"
+                }, {
+                    "disponible_producto": 0,
+                    "solicitado_producto": 1,
+                    "cadena_subtotal_producto": "Subtotal: $ 8,77",
+                    "total_producto": 9.999899864196777,
+                    "subtotal_producto": 8.771900177001953,
+                    "id": 2,
+                    "estado": "P",
+                    "id_cabecera": 2,
+                    "cadena_solicitado_producto": "Sol: 1",
+                    "precio_producto": 8.771900177001953,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 9,9999",
+                    "nombre_producto": "1\/2 CLONITO CHOCOLATE (25 UND)",
+                    "cadena_total_producto": "Total: $ 10,00",
+                    "codigo_producto": "000785"
+                }, {
+                    "disponible_producto": 0,
+                    "solicitado_producto": 2,
+                    "cadena_subtotal_producto": "Subtotal: $ 38,60",
+                    "total_producto": 43.99980163574219,
+                    "subtotal_producto": 38.59640121459961,
+                    "id": 3,
+                    "estado": "P",
+                    "id_cabecera": 3,
+                    "cadena_solicitado_producto": "Sol: 2",
+                    "precio_producto": 19.298200607299805,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 21.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 21,9999",
+                    "nombre_producto": "Cono Dulce (360und)",
+                    "cadena_total_producto": "Total: $ 44,00",
+                    "codigo_producto": "000040"
+                }, {
+                    "disponible_producto": 0,
+                    "solicitado_producto": 3,
+                    "cadena_subtotal_producto": "Subtotal: $ 32,24",
+                    "total_producto": 36.751197814941406,
+                    "subtotal_producto": 32.237998962402344,
+                    "id": 4,
+                    "estado": "P",
+                    "id_cabecera": 3,
+                    "cadena_solicitado_producto": "Sol: 3",
+                    "precio_producto": 10.746000289916992,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.250399589538574,
+                    "cadena_precio_iva_producto": "Pre: $ 12,2504",
+                    "nombre_producto": "Bugy (30 und)",
+                    "cadena_total_producto": "Total: $ 36,75",
+                    "codigo_producto": "000010"
+                }, {
+                    "disponible_producto": 0,
+                    "solicitado_producto": 2,
+                    "cadena_subtotal_producto": "Subtotal: $ 27,19",
+                    "total_producto": 30.99959945678711,
+                    "subtotal_producto": 27.192800521850586,
+                    "id": 5,
+                    "estado": "P",
+                    "id_cabecera": 3,
+                    "cadena_solicitado_producto": "Sol: 2",
+                    "precio_producto": 13.596400260925293,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 15.499799728393555,
+                    "cadena_precio_iva_producto": "Pre: $ 15,4998",
+                    "nombre_producto": "Big Bar (24und)",
+                    "cadena_total_producto": "Total: $ 31,00",
+                    "codigo_producto": "000027"
+                }, {
+                    "disponible_producto": 0,
+                    "solicitado_producto": 5,
+                    "cadena_subtotal_producto": "Subtotal: $ 56,58",
+                    "total_producto": 64.4990005493164,
+                    "subtotal_producto": 56.57849884033203,
+                    "id": 6,
+                    "estado": "P",
+                    "id_cabecera": 3,
+                    "cadena_solicitado_producto": "Sol: 5",
+                    "precio_producto": 11.315699577331543,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.899800300598145,
+                    "cadena_precio_iva_producto": "Pre: $ 12,8998",
+                    "nombre_producto": "Bombom Clasico (24 und)",
+                    "cadena_total_producto": "Total: $ 64,50",
+                    "codigo_producto": "000012"
+                }]
+        }, {
+            "PedidoDetalleAux": []
+        }, {
+            "PedidoTmp": [{
+                    "cadena_precio_producto": "Pre: $ 7,72",
+                    "solicitado_producto": 1,
+                    "disponible_producto": 166,
+                    "fecha": "21\/02\/2017",
+                    "codigo_cliente": "644",
+                    "cadena_subtotal_producto": "Subtotal: $ 7,72",
+                    "total_producto": 8.799799919128418,
+                    "subtotal_producto": 7.719200134277344,
+                    "id": 1,
+                    "codigo_vendedor": "4",
+                    "cadena_solicitado_producto": "Sol: 1",
+                    "precio_producto": 7.719200134277344,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 8.799799919128418,
+                    "cadena_precio_iva_producto": "Pre: $ 8,7998",
+                    "nombre_producto": "Alfajor (20 und)",
+                    "cadena_total_producto": "Total: $ 8,80",
+                    "codigo_producto": "000021"
+                }]
+        }, {
+            "Perfil": [{
+                    "id": 1,
+                    "descripcion_perfil": "Administrador",
+                    "tipo_perfil": "A",
+                    "estado_perfil": "A",
+                    "codigo_perfil": "001"
+                }, {
+                    "id": 2,
+                    "descripcion_perfil": "Vendedor",
+                    "tipo_perfil": "V",
+                    "estado_perfil": "A",
+                    "codigo_perfil": "002"
+                }]
+        }, {
+            "Permiso": [{
+                    "acceso": "S",
+                    "id": 1,
+                    "estado_permiso": "A",
+                    "codigo_menu": "001",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 2,
+                    "estado_permiso": "A",
+                    "codigo_menu": "002",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 3,
+                    "estado_permiso": "A",
+                    "codigo_menu": "003",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 4,
+                    "estado_permiso": "A",
+                    "codigo_menu": "004",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 5,
+                    "estado_permiso": "A",
+                    "codigo_menu": "005",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 6,
+                    "estado_permiso": "A",
+                    "codigo_menu": "006",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 7,
+                    "estado_permiso": "A",
+                    "codigo_menu": "007",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 8,
+                    "estado_permiso": "A",
+                    "codigo_menu": "008",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 9,
+                    "estado_permiso": "A",
+                    "codigo_menu": "009",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 10,
+                    "estado_permiso": "A",
+                    "codigo_menu": "010",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 11,
+                    "estado_permiso": "A",
+                    "codigo_menu": "011",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 12,
+                    "estado_permiso": "A",
+                    "codigo_menu": "012",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "S",
+                    "id": 13,
+                    "estado_permiso": "A",
+                    "codigo_menu": "013",
+                    "codigo_perfil": "001"
+                }, {
+                    "acceso": "N",
+                    "id": 14,
+                    "estado_permiso": "A",
+                    "codigo_menu": "001",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "N",
+                    "id": 15,
+                    "estado_permiso": "A",
+                    "codigo_menu": "002",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 16,
+                    "estado_permiso": "A",
+                    "codigo_menu": "003",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 17,
+                    "estado_permiso": "A",
+                    "codigo_menu": "004",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 18,
+                    "estado_permiso": "A",
+                    "codigo_menu": "005",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 19,
+                    "estado_permiso": "A",
+                    "codigo_menu": "006",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 20,
+                    "estado_permiso": "A",
+                    "codigo_menu": "007",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 21,
+                    "estado_permiso": "A",
+                    "codigo_menu": "008",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 22,
+                    "estado_permiso": "A",
+                    "codigo_menu": "009",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "N",
+                    "id": 23,
+                    "estado_permiso": "A",
+                    "codigo_menu": "010",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 24,
+                    "estado_permiso": "A",
+                    "codigo_menu": "011",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "N",
+                    "id": 25,
+                    "estado_permiso": "A",
+                    "codigo_menu": "012",
+                    "codigo_perfil": "002"
+                }, {
+                    "acceso": "S",
+                    "id": 26,
+                    "estado_permiso": "A",
+                    "codigo_menu": "013",
+                    "codigo_perfil": "002"
+                }]
+        }, {
+            "Producto": [{
+                    "cadena_disponible_producto": "Disp: 16",
+                    "id": 119,
+                    "cadena_precio_producto": "Pre: $ 10,53",
+                    "disponible_producto": 16,
+                    "precio_producto": 10.526300430297852,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 11.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 11,9999",
+                    "nombre_producto": "Artesanal Chocolate (18unidades)",
+                    "codigo_producto": "000001"
+                }, {
+                    "cadena_disponible_producto": "Disp: 68",
+                    "id": 120,
+                    "cadena_precio_producto": "Pre: $ 8,86",
+                    "disponible_producto": 68,
+                    "precio_producto": 8.859600067138672,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 10.099900245666504,
+                    "cadena_precio_iva_producto": "Pre: $ 10,0999",
+                    "nombre_producto": "Frozen Fresa (50 und)",
+                    "codigo_producto": "000002"
+                }, {
+                    "cadena_disponible_producto": "Disp: 802",
+                    "id": 121,
+                    "cadena_precio_producto": "Pre: $ 10,53",
+                    "disponible_producto": 802,
+                    "precio_producto": 10.529999732971191,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.004199981689453,
+                    "cadena_precio_iva_producto": "Pre: $ 12,0042",
+                    "nombre_producto": "Topsy Choc Blanco (60und)",
+                    "codigo_producto": "000004"
+                }, {
+                    "cadena_disponible_producto": "Disp: 537",
+                    "id": 122,
+                    "cadena_precio_producto": "Pre: $ 10,53",
+                    "disponible_producto": 537,
+                    "precio_producto": 10.529999732971191,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.004199981689453,
+                    "cadena_precio_iva_producto": "Pre: $ 12,0042",
+                    "nombre_producto": "Topsy Choc oscuro (60und)",
+                    "codigo_producto": "000005"
+                }, {
+                    "cadena_disponible_producto": "Disp: 3",
+                    "id": 123,
+                    "cadena_precio_producto": "Pre: $ 17,41",
+                    "disponible_producto": 3,
+                    "precio_producto": 17.41069984436035,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 19.848100662231445,
+                    "cadena_precio_iva_producto": "Pre: $ 19,8481",
+                    "nombre_producto": "Clonito Chocolate (50und)",
+                    "codigo_producto": "000006"
+                }, {
+                    "cadena_disponible_producto": "Disp: 4",
+                    "id": 124,
+                    "cadena_precio_producto": "Pre: $ 17,41",
+                    "disponible_producto": 4,
+                    "precio_producto": 17.41069984436035,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 19.848100662231445,
+                    "cadena_precio_iva_producto": "Pre: $ 19,8481",
+                    "nombre_producto": "Clonito Limon (50und)",
+                    "codigo_producto": "000007"
+                }, {
+                    "cadena_disponible_producto": "Disp: 10",
+                    "id": 125,
+                    "cadena_precio_producto": "Pre: $ 14,04",
+                    "disponible_producto": 10,
+                    "precio_producto": 14.035900115966797,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 16.000900268554688,
+                    "cadena_precio_iva_producto": "Pre: $ 16,0009",
+                    "nombre_producto": "Vasito Frutilla\/Rp (40und)",
+                    "codigo_producto": "000008"
+                }, {
+                    "cadena_disponible_producto": "Disp: 11",
+                    "id": 126,
+                    "cadena_precio_producto": "Pre: $ 14,04",
+                    "disponible_producto": 11,
+                    "precio_producto": 14.035900115966797,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 16.000900268554688,
+                    "cadena_precio_iva_producto": "Pre: $ 16,0009",
+                    "nombre_producto": "Vasito Vainilla\/Choc (40und)",
+                    "codigo_producto": "000009"
+                }, {
+                    "cadena_disponible_producto": "Disp: 152",
+                    "id": 127,
+                    "cadena_precio_producto": "Pre: $ 10,75",
+                    "disponible_producto": 152,
+                    "precio_producto": 10.746000289916992,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.250399589538574,
+                    "cadena_precio_iva_producto": "Pre: $ 12,2504",
+                    "nombre_producto": "Bugy (30 und)",
+                    "codigo_producto": "000010"
+                }, {
+                    "cadena_disponible_producto": "Disp: 75",
+                    "id": 128,
+                    "cadena_precio_producto": "Pre: $ 11,32",
+                    "disponible_producto": 75,
+                    "precio_producto": 11.315699577331543,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.899800300598145,
+                    "cadena_precio_iva_producto": "Pre: $ 12,8998",
+                    "nombre_producto": "Bombom Blanco (24 und)",
+                    "codigo_producto": "000011"
+                }, {
+                    "cadena_disponible_producto": "Disp: 177",
+                    "id": 129,
+                    "cadena_precio_producto": "Pre: $ 11,32",
+                    "disponible_producto": 177,
+                    "precio_producto": 11.315699577331543,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.899800300598145,
+                    "cadena_precio_iva_producto": "Pre: $ 12,8998",
+                    "nombre_producto": "Bombom Clasico (24 und)",
+                    "codigo_producto": "000012"
+                }, {
+                    "cadena_disponible_producto": "Disp: 187",
+                    "id": 130,
+                    "cadena_precio_producto": "Pre: $ 11,32",
+                    "disponible_producto": 187,
+                    "precio_producto": 11.315699577331543,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.899800300598145,
+                    "cadena_precio_iva_producto": "Pre: $ 12,8998",
+                    "nombre_producto": "Bombom Cari±o (24 und)",
+                    "codigo_producto": "000013"
+                }, {
+                    "cadena_disponible_producto": "Disp: 47",
+                    "id": 131,
+                    "cadena_precio_producto": "Pre: $ 13,25",
+                    "disponible_producto": 47,
+                    "precio_producto": 13.245599746704102,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 15.099900245666504,
+                    "cadena_precio_iva_producto": "Pre: $ 15,0999",
+                    "nombre_producto": "Cono Flama (24 und)",
+                    "codigo_producto": "000014"
+                }, {
+                    "cadena_disponible_producto": "Disp: 280",
+                    "id": 132,
+                    "cadena_precio_producto": "Pre: $ 3,95",
+                    "disponible_producto": 280,
+                    "precio_producto": 3.9472999572753906,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 4.499899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 4,4999",
+                    "nombre_producto": "1\/2 Baloncito (22 und)",
+                    "codigo_producto": "000015"
+                }, {
+                    "cadena_disponible_producto": "Disp: 55",
+                    "id": 133,
+                    "cadena_precio_producto": "Pre: $ 9,91",
+                    "disponible_producto": 55,
+                    "precio_producto": 9.910699844360352,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 11.298100471496582,
+                    "cadena_precio_iva_producto": "Pre: $ 11,2981",
+                    "nombre_producto": "Majestick (14und)",
+                    "codigo_producto": "000016"
+                }, {
+                    "cadena_disponible_producto": "Disp: 114",
+                    "id": 134,
+                    "cadena_precio_producto": "Pre: $ 10,75",
+                    "disponible_producto": 114,
+                    "precio_producto": 10.745599746704102,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 12,2499",
+                    "nombre_producto": "Cono M&M (15und)",
+                    "codigo_producto": "000017"
+                }, {
+                    "cadena_disponible_producto": "Disp: 194",
+                    "id": 135,
+                    "cadena_precio_producto": "Pre: $ 3,95",
+                    "disponible_producto": 194,
+                    "precio_producto": 3.9472999572753906,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 4.499899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 4,4999",
+                    "nombre_producto": "1\/2 Topsyto (22 und)",
+                    "codigo_producto": "000018"
+                }, {
+                    "cadena_disponible_producto": "Disp: 29",
+                    "id": 136,
+                    "cadena_precio_producto": "Pre: $ 6,36",
+                    "disponible_producto": 29,
+                    "precio_producto": 6.359600067138672,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 7.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 7,2499",
+                    "nombre_producto": "Yofrut (22 und)",
+                    "codigo_producto": "000019"
+                }, {
+                    "cadena_disponible_producto": "Disp: 190",
+                    "id": 137,
+                    "cadena_precio_producto": "Pre: $ 5,09",
+                    "disponible_producto": 190,
+                    "precio_producto": 5.087699890136719,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 5.799900054931641,
+                    "cadena_precio_iva_producto": "Pre: $ 5,7999",
+                    "nombre_producto": "Tu y Yo (24 und)",
+                    "codigo_producto": "000020"
+                }, {
+                    "cadena_disponible_producto": "Disp: 147",
+                    "id": 138,
+                    "cadena_precio_producto": "Pre: $ 7,72",
+                    "disponible_producto": 147,
+                    "precio_producto": 7.719200134277344,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 8.799799919128418,
+                    "cadena_precio_iva_producto": "Pre: $ 8,7998",
+                    "nombre_producto": "Alfajor (20 und)",
+                    "codigo_producto": "000021"
+                }, {
+                    "cadena_disponible_producto": "Disp: 115",
+                    "id": 139,
+                    "cadena_precio_producto": "Pre: $ 5,27",
+                    "disponible_producto": 115,
+                    "precio_producto": 5.2677998542785645,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 6.005199909210205,
+                    "cadena_precio_iva_producto": "Pre: $ 6,0052",
+                    "nombre_producto": "Dona (15 und)",
+                    "codigo_producto": "000022"
+                }, {
+                    "cadena_disponible_producto": "Disp: 154",
+                    "id": 140,
+                    "cadena_precio_producto": "Pre: $ 7,85",
+                    "disponible_producto": 154,
+                    "precio_producto": 7.850800037384033,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 8.949899673461914,
+                    "cadena_precio_iva_producto": "Pre: $ 8,9499",
+                    "nombre_producto": "As Crocante (22 und)",
+                    "codigo_producto": "000023"
+                }, {
+                    "cadena_disponible_producto": "Disp: 122",
+                    "id": 141,
+                    "cadena_precio_producto": "Pre: $ 10,39",
+                    "disponible_producto": 122,
+                    "precio_producto": 10.394700050354004,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 11.849900245666504,
+                    "cadena_precio_iva_producto": "Pre: $ 11,8499",
+                    "nombre_producto": "Galletopsy Chocolate (20 und)",
+                    "codigo_producto": "000025"
+                }, {
+                    "cadena_disponible_producto": "Disp: 118",
+                    "id": 142,
+                    "cadena_precio_producto": "Pre: $ 10,39",
+                    "disponible_producto": 118,
+                    "precio_producto": 10.394700050354004,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 11.849900245666504,
+                    "cadena_precio_iva_producto": "Pre: $ 11,8499",
+                    "nombre_producto": "Galletopsy Vainilla (20und)",
+                    "codigo_producto": "000026"
+                }, {
+                    "cadena_disponible_producto": "Disp: 1361",
+                    "id": 143,
+                    "cadena_precio_producto": "Pre: $ 13,60",
+                    "disponible_producto": 1361,
+                    "precio_producto": 13.596400260925293,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 15.499799728393555,
+                    "cadena_precio_iva_producto": "Pre: $ 15,4998",
+                    "nombre_producto": "Big Bar (24und)",
+                    "codigo_producto": "000027"
+                }, {
+                    "cadena_disponible_producto": "Disp: 7",
+                    "id": 144,
+                    "cadena_precio_producto": "Pre: $ 6,36",
+                    "disponible_producto": 7,
+                    "precio_producto": 6.359600067138672,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 7.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 7,2499",
+                    "nombre_producto": "Mini Torta",
+                    "codigo_producto": "000028"
+                }, {
+                    "cadena_disponible_producto": "Disp: 42",
+                    "id": 145,
+                    "cadena_precio_producto": "Pre: $ 10,75",
+                    "disponible_producto": 42,
+                    "precio_producto": 10.745599746704102,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 12,2499",
+                    "nombre_producto": "Torta Cari±o",
+                    "codigo_producto": "000029"
+                }, {
+                    "cadena_disponible_producto": "Disp: 60",
+                    "id": 146,
+                    "cadena_precio_producto": "Pre: $ 10,75",
+                    "disponible_producto": 60,
+                    "precio_producto": 10.745599746704102,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 12.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 12,2499",
+                    "nombre_producto": "Torta Imperial",
+                    "codigo_producto": "000030"
+                }, {
+                    "cadena_disponible_producto": "Disp: 98",
+                    "id": 147,
+                    "cadena_precio_producto": "Pre: $ 2,19",
+                    "disponible_producto": 98,
+                    "precio_producto": 2.1928999423980713,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 2.4999001026153564,
+                    "cadena_precio_iva_producto": "Pre: $ 2,4999",
+                    "nombre_producto": "Litro Vainilla",
+                    "codigo_producto": "000031"
+                }, {
+                    "cadena_disponible_producto": "Disp: 203",
+                    "id": 148,
+                    "cadena_precio_producto": "Pre: $ 2,19",
+                    "disponible_producto": 203,
+                    "precio_producto": 2.1928999423980713,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 2.4999001026153564,
+                    "cadena_precio_iva_producto": "Pre: $ 2,4999",
+                    "nombre_producto": "Litro Frutilla",
+                    "codigo_producto": "000032"
+                }, {
+                    "cadena_disponible_producto": "Disp: 173",
+                    "id": 149,
+                    "cadena_precio_producto": "Pre: $ 2,19",
+                    "disponible_producto": 173,
+                    "precio_producto": 2.1928999423980713,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 2.4999001026153564,
+                    "cadena_precio_iva_producto": "Pre: $ 2,4999",
+                    "nombre_producto": "Litro Chocolate",
+                    "codigo_producto": "000033"
+                }, {
+                    "cadena_disponible_producto": "Disp: 97",
+                    "id": 150,
+                    "cadena_precio_producto": "Pre: $ 2,19",
+                    "disponible_producto": 97,
+                    "precio_producto": 2.1928999423980713,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 2.4999001026153564,
+                    "cadena_precio_iva_producto": "Pre: $ 2,4999",
+                    "nombre_producto": "Litro Rompasas",
+                    "codigo_producto": "000034"
+                }, {
+                    "cadena_disponible_producto": "Disp: 15",
+                    "id": 151,
+                    "cadena_precio_producto": "Pre: $ 2,72",
+                    "disponible_producto": 15,
+                    "precio_producto": 2.7191998958587646,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 3.0998001098632813,
+                    "cadena_precio_iva_producto": "Pre: $ 3,0998",
+                    "nombre_producto": "Litro Oreo",
+                    "codigo_producto": "000035"
+                }, {
+                    "cadena_disponible_producto": "Disp: 15",
+                    "id": 152,
+                    "cadena_precio_producto": "Pre: $ 2,72",
+                    "disponible_producto": 15,
+                    "precio_producto": 2.7191998958587646,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 3.0998001098632813,
+                    "cadena_precio_iva_producto": "Pre: $ 3,0998",
+                    "nombre_producto": "Litro Mora",
+                    "codigo_producto": "000036"
+                }, {
+                    "cadena_disponible_producto": "Disp: 1",
+                    "id": 153,
+                    "cadena_precio_producto": "Pre: $ 2,72",
+                    "disponible_producto": 1,
+                    "precio_producto": 2.7191998958587646,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 3.0998001098632813,
+                    "cadena_precio_iva_producto": "Pre: $ 3,0998",
+                    "nombre_producto": "Litro Yofrut",
+                    "codigo_producto": "000037"
+                }, {
+                    "cadena_disponible_producto": "Disp: 12",
+                    "id": 154,
+                    "cadena_precio_producto": "Pre: $ 3,73",
+                    "disponible_producto": 12,
+                    "precio_producto": 3.7279999256134033,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 4.249899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 4,2499",
+                    "nombre_producto": "Litro M & M",
+                    "codigo_producto": "000038"
+                }, {
+                    "cadena_disponible_producto": "Disp: 2",
+                    "id": 155,
+                    "cadena_precio_producto": "Pre: $ 2,72",
+                    "disponible_producto": 2,
+                    "precio_producto": 2.7191998958587646,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 3.0998001098632813,
+                    "cadena_precio_iva_producto": "Pre: $ 3,0998",
+                    "nombre_producto": "LITRO CHICLE",
+                    "codigo_producto": "000039"
+                }, {
+                    "cadena_disponible_producto": "Disp: 2",
+                    "id": 156,
+                    "cadena_precio_producto": "Pre: $ 19,30",
+                    "disponible_producto": 2,
+                    "precio_producto": 19.298200607299805,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 21.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 21,9999",
+                    "nombre_producto": "Cono Dulce (360und)",
+                    "codigo_producto": "000040"
+                }, {
+                    "cadena_disponible_producto": "Disp: 2",
+                    "id": 157,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 2,
+                    "precio_producto": 9.999999747378752E-5,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.999999747378752E-5,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0001",
+                    "nombre_producto": "LITRO GRATIS",
+                    "codigo_producto": "000139"
+                }, {
+                    "cadena_disponible_producto": "Disp: 1",
+                    "id": 158,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 1,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "Tacho Frutilla",
+                    "codigo_producto": "000155"
+                }, {
+                    "cadena_disponible_producto": "Disp: 4",
+                    "id": 159,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 4,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "Tacho Chicle",
+                    "codigo_producto": "000157"
+                }, {
+                    "cadena_disponible_producto": "Disp: 3",
+                    "id": 160,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 3,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "Tacho Ron pasa",
+                    "codigo_producto": "000159"
+                }, {
+                    "cadena_disponible_producto": "Disp: 3",
+                    "id": 161,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 3,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "Tacho Oreo Chicle",
+                    "codigo_producto": "000160"
+                }, {
+                    "cadena_disponible_producto": "Disp: 2",
+                    "id": 162,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 2,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "TACHO VAINILLA\/MORA",
+                    "codigo_producto": "000162"
+                }, {
+                    "cadena_disponible_producto": "Disp: 6",
+                    "id": 163,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 6,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "TACHO FRUTILLA\/RON PASA",
+                    "codigo_producto": "000163"
+                }, {
+                    "cadena_disponible_producto": "Disp: 3",
+                    "id": 164,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 3,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "TACHO M&M",
+                    "codigo_producto": "000164"
+                }, {
+                    "cadena_disponible_producto": "Disp: 36",
+                    "id": 165,
+                    "cadena_precio_producto": "Pre: $ 8,86",
+                    "disponible_producto": 36,
+                    "precio_producto": 8.859600067138672,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 10.099900245666504,
+                    "cadena_precio_iva_producto": "Pre: $ 10,0999",
+                    "nombre_producto": "FROZEN CHICLE",
+                    "codigo_producto": "000170"
+                }, {
+                    "cadena_disponible_producto": "Disp: 4",
+                    "id": 166,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 4,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "TACHO VAINILLA 10LT",
+                    "codigo_producto": "000172"
+                }, {
+                    "cadena_disponible_producto": "Disp: 13",
+                    "id": 167,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 13,
+                    "precio_producto": 9.999999747378752E-5,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.999999747378752E-5,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0001",
+                    "nombre_producto": "GRATIS TOPSYTO",
+                    "codigo_producto": "000485"
+                }, {
+                    "cadena_disponible_producto": "Disp: 37",
+                    "id": 168,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 37,
+                    "precio_producto": 0.0010000000474974513,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 0.0010999999940395355,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0011",
+                    "nombre_producto": "CAMBIO DE VENTILADOR DE CONGELADOR",
+                    "codigo_producto": "000518"
+                }, {
+                    "cadena_disponible_producto": "Disp: 19",
+                    "id": 169,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 19,
+                    "precio_producto": 0.0010000000474974513,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 0.0010999999940395355,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0011",
+                    "nombre_producto": "CABALLETE",
+                    "codigo_producto": "000519"
+                }, {
+                    "cadena_disponible_producto": "Disp: 10",
+                    "id": 170,
+                    "cadena_precio_producto": "Pre: $ 6,62",
+                    "disponible_producto": 10,
+                    "precio_producto": 6.622799873352051,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 7.549900054931641,
+                    "cadena_precio_iva_producto": "Pre: $ 7,5499",
+                    "nombre_producto": "1\/2 DE CONO FLAMA",
+                    "codigo_producto": "000600"
+                }, {
+                    "cadena_disponible_producto": "Disp: 28",
+                    "id": 171,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 28,
+                    "precio_producto": 0.0010000000474974513,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 0.0010999999940395355,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0011",
+                    "nombre_producto": "TAPA DE CONGELADOR",
+                    "codigo_producto": "000610"
+                }, {
+                    "cadena_disponible_producto": "Disp: 29",
+                    "id": 172,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 29,
+                    "precio_producto": 0.0010000000474974513,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 0.0010999999940395355,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0011",
+                    "nombre_producto": "ENCHUFLE DE CONGELADOR",
+                    "codigo_producto": "000611"
+                }, {
+                    "cadena_disponible_producto": "Disp: 36",
+                    "id": 173,
+                    "cadena_precio_producto": "Pre: $ 8,60",
+                    "disponible_producto": 36,
+                    "precio_producto": 8.596400260925293,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.799799919128418,
+                    "cadena_precio_iva_producto": "Pre: $ 9,7998",
+                    "nombre_producto": "HELADO LECHE SABOR FRESA",
+                    "codigo_producto": "000635"
+                }, {
+                    "cadena_disponible_producto": "Disp: 42",
+                    "id": 174,
+                    "cadena_precio_producto": "Pre: $ 8,60",
+                    "disponible_producto": 42,
+                    "precio_producto": 8.596400260925293,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.799799919128418,
+                    "cadena_precio_iva_producto": "Pre: $ 9,7998",
+                    "nombre_producto": "HELADO LECHE SABOR CHOCOLATE",
+                    "codigo_producto": "000636"
+                }, {
+                    "cadena_disponible_producto": "Disp: 3",
+                    "id": 175,
+                    "cadena_precio_producto": "Pre: $ 22,81",
+                    "disponible_producto": 3,
+                    "precio_producto": 22.80699920654297,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 25.999900817871094,
+                    "cadena_precio_iva_producto": "Pre: $ 25,9999",
+                    "nombre_producto": "TACHO OREO",
+                    "codigo_producto": "000637"
+                }, {
+                    "cadena_disponible_producto": "Disp: 4",
+                    "id": 176,
+                    "cadena_precio_producto": "Pre: $ 0,00",
+                    "disponible_producto": 4,
+                    "precio_producto": 0.0010000000474974513,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 0.0010999999940395355,
+                    "cadena_precio_iva_producto": "Pre: $ 0,0011",
+                    "nombre_producto": "GRATIS  CAJA TOPSY CHOC",
+                    "codigo_producto": "000673"
+                }, {
+                    "cadena_disponible_producto": "Disp: 4",
+                    "id": 177,
+                    "cadena_precio_producto": "Pre: $ 8,77",
+                    "disponible_producto": 4,
+                    "precio_producto": 8.771900177001953,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 9,9999",
+                    "nombre_producto": "1\/2 CLONITO LIMON (25 UND)",
+                    "codigo_producto": "000784"
+                }, {
+                    "cadena_disponible_producto": "Disp: 2",
+                    "id": 178,
+                    "cadena_precio_producto": "Pre: $ 8,77",
+                    "disponible_producto": 2,
+                    "precio_producto": 8.771900177001953,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 9.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 9,9999",
+                    "nombre_producto": "1\/2 CLONITO CHOCOLATE (25 UND)",
+                    "codigo_producto": "000785"
+                }, {
+                    "cadena_disponible_producto": "Disp: 97",
+                    "id": 179,
+                    "cadena_precio_producto": "Pre: $ 7,89",
+                    "disponible_producto": 97,
+                    "precio_producto": 7.894700050354004,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 8.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 8,9999",
+                    "nombre_producto": "CAJA DE TOPSYTO (44 UND)",
+                    "codigo_producto": "000786"
+                }, {
+                    "cadena_disponible_producto": "Disp: 140",
+                    "id": 180,
+                    "cadena_precio_producto": "Pre: $ 7,89",
+                    "disponible_producto": 140,
+                    "precio_producto": 7.894700050354004,
+                    "imagen_producto": "0",
+                    "precio_iva_producto": 8.999899864196777,
+                    "cadena_precio_iva_producto": "Pre: $ 8,9999",
+                    "nombre_producto": "CAJA BALONCITO (44 UND)",
+                    "codigo_producto": "000787"
+                }]
+        }, {
+            "RutaVendedor": [{
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "262",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO RIO SECO : CALLE TERCERA Y TRANSVERSAL 6",
+                    "telefono_cliente": "052733510",
+                    "id": 78,
+                    "visitado": "S",
+                    "cadena_deuda_cliente": "deuda: $102.18",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "264",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO CAMINO REAL Y CANCHEO",
+                    "telefono_cliente": "0981598113",
+                    "id": 79,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $365.19",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "267",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO NUEVO CDLA4 DE MAYO",
+                    "telefono_cliente": "0969479814",
+                    "id": 80,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $107.83",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "270",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CDLA BARREIRO CALLE VIADUCTO FRENTE ESCUELA BARREIRO",
+                    "telefono_cliente": "0986097159",
+                    "id": 81,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $22.31",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "276",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO AUTOPISTA QUITO VIA A BABAHOYO",
+                    "telefono_cliente": "0991110704",
+                    "id": 82,
+                    "visitado": "S",
+                    "cadena_deuda_cliente": "deuda: $111.69",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "279",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CALLE BARREIRO NUEVO BAJANDO EL PUENTE A LA DERECHA",
+                    "telefono_cliente": "0967909293",
+                    "id": 83,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $28.79",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "284",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO VIA PRINCIPAL",
+                    "telefono_cliente": "0980909408",
+                    "id": 84,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $73.61",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "288",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO BARREIRO CALLE TRANSVERSAL V s\/n CALLE SECUNDARIA",
+                    "telefono_cliente": "052739220",
+                    "id": 85,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $101.92",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "289",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO EL VIADUCTO BARRIO SAN ANTONIO AUTOPISTA",
+                    "telefono_cliente": "0997456454",
+                    "id": 86,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $58.77",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "296",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO GUARANDA Y CANCHENO",
+                    "telefono_cliente": "0959996242",
+                    "id": 87,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $34.02",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "298",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO NUEVO CALLE GUARANDA Y TRANSVERSAL FRENTE EL MANEI",
+                    "telefono_cliente": "0969307895",
+                    "id": 88,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $59.44",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "299",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO CALLE 7 ENTRE LA D Y E",
+                    "telefono_cliente": "0991862474",
+                    "id": 89,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $22.14",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "305",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CDLA EL MAMEY A LADO DE LA ESCUELA JOSE MARIA ESTRADA CUELLO TIENDA ESQUINERO",
+                    "telefono_cliente": "0993540214",
+                    "id": 90,
+                    "visitado": "S",
+                    "cadena_deuda_cliente": "deuda: $110.58",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "309",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO, 10 DE AGOSTO Y ELOY ALFARO",
+                    "telefono_cliente": "0980239485",
+                    "id": 91,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "311",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: AV. UNIVERSITARIA Y  JUAN AGNOLETA",
+                    "telefono_cliente": "0999592694",
+                    "id": 92,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $25.33",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "321",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CDLA EL MAMEY CALLE TIWINZA ESQ",
+                    "telefono_cliente": "0968011745 -3",
+                    "id": 93,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $30.73",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "331",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CALLE SEGUNDA ESQUINA ATRAS DEL AKI",
+                    "telefono_cliente": "0985530132",
+                    "id": 94,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $257.18",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "496",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CDLA BARREIRO NUEVO AL FRENTE LA ESCUELA ALDON CALDERON",
+                    "telefono_cliente": "0979569587",
+                    "id": 95,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $161.36",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "497",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: CDLA. BARREIRO NUEVO CALLE GUARANDA 1RA TRANSVERSAL",
+                    "telefono_cliente": "0979755477",
+                    "id": 96,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "504",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO BARREIRO NUEVO CDLA 4 DE MAYO",
+                    "telefono_cliente": "0997456454",
+                    "id": 97,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "505",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO CDLA BARREIRO NUEVO GUARANDA Y 1ERA TRANSVERSAL A 1 CUADRA DEL PUENTE",
+                    "telefono_cliente": "0981686409",
+                    "id": 98,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $63.84",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "506",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABABHOYO VIA QUEVEDO PRINCIPAL A LA MITAD DE LOS DOS PUENTES",
+                    "telefono_cliente": "0992063871",
+                    "id": 99,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "520",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "EL SALTO ROSA DE AGOSTO \"CYBER ANJOS\"",
+                    "telefono_cliente": "0985005112",
+                    "id": 100,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "550",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: CDLA BARREIRO VIEJO VIA A DUCTO",
+                    "telefono_cliente": "0967548897",
+                    "id": 101,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $46.39",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "562",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: CDLA. EL MAMEI",
+                    "telefono_cliente": "0659393766",
+                    "id": 102,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "588",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BARREIRO NUEVO CALLE SEGUNDA Y TRANSVERSAL J",
+                    "telefono_cliente": "0959911451",
+                    "id": 103,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $63.29",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "614",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO EL MAMEY AV 3 #128 ENTRE CALLE 4 Y 5",
+                    "telefono_cliente": "052570415",
+                    "id": 104,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "615",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO MALECON BARREIRO TIMARSU",
+                    "telefono_cliente": "0981201729",
+                    "id": 105,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $111.83",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "655",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO BARREIRO NUEVO MALECON SUR",
+                    "telefono_cliente": "0994582758",
+                    "id": 106,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "657",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BARREIRO ESQUINA DEL POL DEPORTIVO",
+                    "telefono_cliente": "052731702",
+                    "id": 107,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $253.15",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }, {
+                    "nombre_vendedor": "RONALD SALAZAR OÑATE",
+                    "agregado": "N",
+                    "codigo_cliente": "686",
+                    "cadena_fecha_ruta": "28\/02\/2017",
+                    "codigo_ruta": "8",
+                    "direccion_cliente": "BABAHOYO: BARREIRO VIA PRINCIPAL BAJANDO EL PUENTE A LA IZQUIERDA COMERCIAL ALEXIS",
+                    "telefono_cliente": "0968084880",
+                    "id": 108,
+                    "visitado": "N",
+                    "cadena_deuda_cliente": "deuda: $0.00",
+                    "codigo_vendedor": "1",
+                    "codigo_dia": "2",
+                    "imagen_visita": "2130837599",
+                    "nombre_ruta": "MARTES- RONALD - EL MAMEY-BARREIRO"
+                }]
+        }, {
+            "Usuario": [{
+                    "codigo": "000",
+                    "id": 1,
+                    "nombres": "Administrador",
+                    "apellidos": "Administrador",
+                    "tipo": "A",
+                    "login": "Administrador",
+                    "clave": "123456",
+                    "codigo_perfil": "001"
+                }, {
+                    "codigo": "1",
+                    "id": 2,
+                    "nombres": "Vendedor",
+                    "apellidos": "Vendedor",
+                    "tipo": "V",
+                    "login": "Vendedor",
+                    "clave": "123456",
+                    "codigo_perfil": "002"
+                }]
+        }]
+}
